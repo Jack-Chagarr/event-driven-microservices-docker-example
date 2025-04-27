@@ -60,10 +60,6 @@ services:
       dockerfile: Dockerfile
     environment:
       - MESSAGE_BUS=amqp://rabbitmq
-      - EMAIL_SERVICE=gmail
-      - EMAIL_ID=noreply.localnewsapplication@gmail.com
-      - EMAIL_PASSWORD=Testing0*
-      - ADMIN_EMAIL=localnewsapp340ct@gmail.com
     links:
       - rabbitmq
 
