@@ -1,17 +1,21 @@
 #!/bin/sh
 
 cd ./services/articles-management
+npm install
 npm test
 cd -
 
 cd ./services/events-management
+npm install
 npm test
 cd -
 
 cd ./services/user-management
+npm install
 npm test
 cd - 
 
 cd ./services/notification
+npm install
 npm test
 cd -
