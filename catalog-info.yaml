@@ -4,6 +4,8 @@ metadata:
   name: event-driven-microservices-docker-example
   annotations:
     github.com/project-slug: Jack-Chagarr/event-driven-microservices-docker-example
+    backstage.io/techdocs-ref: value
+
 spec:
   type: other
   lifecycle: unknown
