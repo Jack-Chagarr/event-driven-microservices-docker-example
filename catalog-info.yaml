@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: event-driven-microservices-docker-example
+  annotations:
+    github.com/project-slug: Jack-Chagarr/event-driven-microservices-docker-example
+spec:
+  type: other
+  lifecycle: unknown
+  owner: "\bJunyoung Chegal"
