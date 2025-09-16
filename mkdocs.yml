@@ -1,0 +1,9 @@
+site_name: Event Driven Microservices Docs
+site_description: Documentation for the event-driven-microservices-docker-example project
+
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+
+plugins:
+  - techdocs-core
