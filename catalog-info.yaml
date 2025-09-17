@@ -5,7 +5,8 @@ metadata:
   annotations:
     github.com/project-slug: Jack-Chagarr/event-driven-microservices-docker-example
     backstage.io/techdocs-ref: dir:.
-
+    jira/project-key: KAN
+  
 spec:
   type: other
   lifecycle: unknown
